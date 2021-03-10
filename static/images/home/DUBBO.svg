@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="81px" viewBox="0 0 73 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Dubbo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32.5 0 60.6458256 16.25 60.6458256 48.75 32.5 65 4.35417438 48.75 4.35417438 16.25"></polygon>
+        <filter x="-12.5%" y="-19.3%" width="125.1%" height="138.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.197867514   0 0 0 0 0.542937354   0 0 0 0 0.838711504  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-546.000000, -254.000000)">
+            <g id="Group-5" transform="translate(530.000000, 192.000000)">
+                <g id="Dubbo" transform="translate(20.000000, 70.000000)">
+                    <g id="Polygon" transform="translate(32.500000, 32.500000) rotate(-180.000000) translate(-32.500000, -32.500000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#2D59CB" stroke-width="1" fill="#131758" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-4" transform="translate(9.000000, 9.500000)">
+                        <polygon id="Polygon" stroke="#4C6493" fill="#2A3B6E" points="23.5 0.5 42.1195462 11.5 42.1195462 33.5 23.5 44.5 4.88045382 33.5 4.88045382 11.5"></polygon>
+                        <path d="M8.08250916,7.58250916 L8.417672,38.082328 L38.9174908,38.4174908 L38.582328,7.917672 L8.08250916,7.58250916 Z" id="Rectangle" stroke="#4C6493" fill="#2A3B6E" transform="translate(23.500000, 23.000000) rotate(-315.000000) translate(-23.500000, -23.000000) "></path>
+                        <path d="M16,12.5 L27.4345238,12.5 C29.3273289,13.3940067 30.6548823,14.5335416 31.4171839,15.9186047 C32.5606362,17.9961993 33,18.5232558 33,22.5116279 C33,26.5 32.3709053,27.9735926 31.1785714,30.0813953 C30.3836822,31.4865972 28.9838806,32.6261321 26.9791667,33.5 L16,33.5 L16,12.5 Z M22.2333333,14.8333333 C21.6519848,14.8333333 21.2575954,15.0599087 20.9583333,15.5 C20.6590713,15.9400913 20.5333333,16.1666667 20.5333333,17 C20.5333333,21.75 20.5333333,22.4166667 20.5333333,27.1666667 C20.5333333,28.4904336 20.7660461,28.6895897 21.1,29.1666667 C21.4339539,29.6437436 21.8003496,30 22.5166667,30 C23.2722222,30 24.1222222,30 25.0666667,30 L25.0666667,28.1666667 C24.3532784,28.1810159 23.8810561,28.1254603 23.65,28 C23.4189439,27.8745397 23.2772772,27.5967619 23.225,27.1666667 L23.225,18 C23.2891523,17.4007407 23.4308189,17.0118519 23.65,16.8333333 C23.8691811,16.6548148 24.3414033,16.5437037 25.0666667,16.5 L25.0666667,14.8333333 C24.1222222,14.8333333 23.1777778,14.8333333 22.2333333,14.8333333 Z" id="Combined-Shape" fill="#D2E2FF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

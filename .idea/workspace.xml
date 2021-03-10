@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22c0bc35-9d36-4e19-b06f-32eefd969209" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UpXuGxdaeR2jzA1FECRevq943O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="F:\workspace\web\EOS_Microservices_5.0.0_CoFrame_UI_Source\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22c0bc35-9d36-4e19-b06f-32eefd969209" name="Default Changelist" comment="" />
+      <created>1576054730727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576054730727</updated>
+      <workItem from="1576054733865" duration="154000" />
+      <workItem from="1576054895101" duration="3531000" />
+      <workItem from="1576200783117" duration="2013000" />
+      <workItem from="1576460001005" duration="492000" />
+      <workItem from="1576470856243" duration="679000" />
+      <workItem from="1576631912814" duration="3571000" />
+      <workItem from="1576718101037" duration="1225000" />
+      <workItem from="1576803627968" duration="694000" />
+      <workItem from="1577062240239" duration="82000" />
+      <workItem from="1577062345562" duration="1938000" />
+      <workItem from="1577178615578" duration="1169000" />
+      <workItem from="1577263940696" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1576460490697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1576460490697" />
+    <state width="949" height="285" key="GridCell.Tab.0.bottom" timestamp="1576054822640">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1576054822640" />
+    <state width="949" height="285" key="GridCell.Tab.0.center" timestamp="1576054822640">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1576054822640" />
+    <state width="949" height="285" key="GridCell.Tab.0.left" timestamp="1576054822640">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1576054822640" />
+    <state width="949" height="285" key="GridCell.Tab.0.right" timestamp="1576054822640">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1576054822640" />
+    <state x="656" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1577263942199">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577263942199" />
+    <state x="656" y="262" width="646" height="542" key="find.popup" timestamp="1577178724591">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="262" width="646" height="542" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1577178724591" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1576640221649">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1576640221649" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/admin/org-auth/role/add.vue</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

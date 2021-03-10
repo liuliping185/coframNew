@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="81px" viewBox="0 0 73 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Spring</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32.5 0 60.6458256 16.25 60.6458256 48.75 32.5 65 4.35417438 48.75 4.35417438 16.25"></polygon>
+        <filter x="-12.5%" y="-19.3%" width="125.1%" height="138.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.197867514   0 0 0 0 0.542937354   0 0 0 0 0.838711504  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-645.000000, -254.000000)">
+            <g id="Group-5" transform="translate(530.000000, 192.000000)">
+                <g id="Spring" transform="translate(119.000000, 70.000000)">
+                    <g id="Polygon" transform="translate(32.500000, 32.500000) rotate(-180.000000) translate(-32.500000, -32.500000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#42CB2D" stroke-width="1" fill="#133858" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-4" transform="translate(9.000000, 9.500000)">
+                        <polygon id="Polygon" stroke="#4C935D" fill="#2A536E" points="23.5 0.5 42.1195462 11.5 42.1195462 33.5 23.5 44.5 4.88045382 33.5 4.88045382 11.5"></polygon>
+                        <path d="M8.08250916,7.58250916 L8.417672,38.082328 L38.9174908,38.4174908 L38.582328,7.917672 L8.08250916,7.58250916 Z" id="Rectangle" stroke="#4C935D" fill="#2A536E" transform="translate(23.500000, 23.000000) rotate(-315.000000) translate(-23.500000, -23.000000) "></path>
+                        <g id="spring" transform="translate(12.000000, 11.500000)" fill-rule="nonzero">
+                            <path d="M11.42799,22 C5.11271133,22 0,16.9984212 0,10.9479002 C0,4.90432586 5.11991234,0 11.435191,0 C14.6900438,0 17.6208516,1.29902116 19.7091421,3.38995895 L20.9333125,1.31986107 C22.1862868,4.556994 23,8.33596464 23,10.9340069 C23,16.9775813 17.7432686,22 11.42799,22 Z" id="Path" fill="#D2E2FF"></path>
+                            <path d="M6.63439542,17.9344531 C7.85635227,17.5653421 9.16456489,17.175338 10.2571381,16.8340844 C14.5699269,15.4969275 18.2789254,12.1261778 19.2636788,7.88488324 C18.4801889,9.87668988 15.2959131,13.7697665 10.3074539,15.3228185 C8.70453408,15.8103236 7.04411036,16.1167554 5.40525059,16.4858664 C5.19679913,16.534617 4.90927987,16.4789021 4.72239235,16.3674723 C3.67294706,15.74068 3.10509653,14.6124539 3.01884075,13.4842278 C2.77444938,10.4338386 4.93084382,7.94059812 8.13668354,7.2998771 C9.48083608,7.0282671 10.8681165,7.09791069 12.241021,6.95862351 C15.8709516,6.58951249 19.2852428,4.08930766 20.3131241,2 C20.3131241,2 20.5000116,2.40393281 20.5359515,2.52929127 C21.3122535,4.87628021 21.9376079,7.25112659 21.9951118,9.7374027 C22.0310517,11.0745596 21.8729161,12.3977878 21.3841334,13.6583367 C20.3921919,16.2003277 18.3723691,17.4887341 15.6696881,17.7951659 C14.0883322,17.9692749 12.4854123,17.9344531 10.8896804,17.9623105 C9.59584378,17.990168 8.09355566,17.9344531 6.63439542,17.9344531 M5.03147556,18.0667759 C5.03147556,18.5821385 4.59300869,19 4.05391008,19 C3.51481147,19 3.0763446,18.5821385 3.0763446,18.0667759 C3.0763446,17.5514134 3.51481147,17.1335518 4.05391008,17.1335518 C4.59300869,17.1335518 5.03147556,17.544449 5.03147556,18.0667759" id="Shape" fill="#2A536E"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

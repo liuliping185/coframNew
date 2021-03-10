@@ -1,0 +1,20 @@
+export default {
+  description: null,
+  // "employee": {
+  //   "description": null,
+  //   "dismissTime": null,
+  //   "email": null,
+  //   "entryTime": null,
+  //   "gender": null,
+  //   "id": null,
+  //   "name": null,
+  //   "phone": null,
+  //   "state": null,
+  // },
+  id: null,
+  name: null,
+  password: null,
+  salt: null,
+  state: null,
+  tenantId: 'default',
+}

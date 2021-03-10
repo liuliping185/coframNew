@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="46px" viewBox="0 0 47 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>域</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
+            <stop stop-color="#191D4D" offset="0%"></stop>
+            <stop stop-color="#313568" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EOS首页" transform="translate(-19.000000, -192.000000)" fill="url(#radialGradient-1)" stroke="#788FBB">
+            <g id="Group-3" transform="translate(20.000000, 192.500000)">
+                <circle id="域" cx="22.5" cy="22.5" r="22.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
